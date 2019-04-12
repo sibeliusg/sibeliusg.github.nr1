@@ -10,13 +10,14 @@ menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Subscribe', path: 'menu', url: 'subscribe.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Links', path: 'menu', url: 'links.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 #- {icon: 'github', link: 'https://www.github.com/lenpaul'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:detlef.humps@yandex.com'}
+- {icon: 'envelope', link: '/menu/contact.html'}
 #- {icon: 'rss-square', link: '/feed.xml'}
 - {icon: 'youtube', link: 'https://www.youtube.com/channel/UC6oBKJpyVMVWadvmI78PLXw'}
 - {icon: 'instagram', link: 'https://instagram.com/sibherbman'}
