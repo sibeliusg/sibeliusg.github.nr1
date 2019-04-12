@@ -18,6 +18,8 @@ social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
 - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UC6oBKJpyVMVWadvmI78PLXw'}
+- {icon: 'instagram', link 'https://instagram.com/sibherbman'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
