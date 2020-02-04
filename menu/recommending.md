@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Empfehlungen
+title: What I recommend
 ---
 
-## Bücher
-* "Walden" von "Henry David Thoreau"
-* "Woodcraft and Camping" von "George W. Sears Nessmuk" (enlish)
+## Books
+* "Walden" by "Henry David Thoreau"
+* "Woodcraft and Camping" by "George W. Sears Nessmuk" (enlish)
 * "[Schritte zum inneren Frieden](https://static1.squarespace.com/static/57fd0b4a59cc68f193ae8ee9/t/5a035a24e4966b1a48b4d757/1510169125071/German-Schritte+zum+inneren+Frieden.pdf "Schritte zum inneren Frieden")" von "Peace Pilgrim"
 
 ## Spirituelles
