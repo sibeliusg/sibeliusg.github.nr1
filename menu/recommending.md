@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What I recommend
+title: recommending
 ---
 
 ## Books
