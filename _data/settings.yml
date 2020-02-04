@@ -10,7 +10,7 @@ menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Subscribe', path: 'menu', url: 'subscribe.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
-- {name: 'Empfehlungen', path: 'menu', url: 'empfehlungen.html'}
+- {name: 'What I recommend', path: 'menu', url: 'recommending.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
