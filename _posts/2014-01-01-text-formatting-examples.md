@@ -21,7 +21,6 @@ This is what a paragraph looks like. For the purpose of demonstration, the rest 
 
 Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-
 ## Headings
 
 Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
@@ -92,14 +91,14 @@ To add an image, use `![alt text](<Image url> "Image meta title")`:
 You can make an unordered and nested list by preceding one or more lines of text with `-`, `*`, or `+`, and indenting sublists. The following lists show the full range of possible list formats.
 
 * List item one
+  * List item one
     * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
     * List item two
     * List item three
     * List item four
+  * List item two
+  * List item three
+  * List item four
 * List item two
 * List item three
 * List item four
@@ -107,14 +106,14 @@ You can make an unordered and nested list by preceding one or more lines of text
 Numbered lists are made by using numbers instead of bullet points.
 
 1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
+   1. List item one
+      1. List item one
+      2. List item two
+      3. List item three
+      4. List item four
+   2. List item two
+   3. List item three
+   4. List item four
 2. List item two
 3. List item three
 4. List item four
@@ -133,12 +132,12 @@ $$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j
 
 ## Tables
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+| Title 1               | Title 2               | Title 3               | Title 4               |
+| --------------------- |:---------------------:|:--------------------- | ---------------------:|
+| lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit |
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
+| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
 
 ## Embedding
 
